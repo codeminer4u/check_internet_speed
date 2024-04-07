@@ -5,7 +5,7 @@ from threading import Thread
 # Create the main window
 root = Tk()
 # Set window properties
-root.geometry("320x350")
+root.geometry("520x350")
 root.resizable(True, True)
 root.title("Internet Speed Test")
 root.config(bg="#E6E6FA")
