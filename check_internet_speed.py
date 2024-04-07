@@ -54,7 +54,6 @@ title_label.pack(pady=10)
 # Design and display labels for download and upload speeds
 download_label = Label(root, text="Download Speed:", font=("Arial, bold", 15), bg="#E6E6FA")
 download_label.place(x=10, y=80)
-
 download_speed_label = Label(root, text="", font=("Arial, bold", 15), bg="#E6E6FA", fg="#089927")
 download_speed_label.place(x=180, y=80)
 
